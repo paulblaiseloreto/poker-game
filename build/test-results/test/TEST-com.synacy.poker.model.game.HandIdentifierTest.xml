@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.synacy.poker.model.game.HandIdentifierTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-01-10T09:02:11" hostname="Pauls-MacBook-Pro-2.local" time="0.04">
+  <properties/>
+  <testcase name="identifyHand_royalFlush" classname="com.synacy.poker.model.game.HandIdentifierTest" time="0.006"/>
+  <testcase name="identifyHand_straight" classname="com.synacy.poker.model.game.HandIdentifierTest" time="0.002"/>
+  <testcase name="identifyHand_highCard" classname="com.synacy.poker.model.game.HandIdentifierTest" time="0.002"/>
+  <testcase name="identifyHand_fullHouse" classname="com.synacy.poker.model.game.HandIdentifierTest" time="0.001"/>
+  <testcase name="identifyHand_onePair" classname="com.synacy.poker.model.game.HandIdentifierTest" time="0.01"/>
+  <testcase name="identifyHand_threeOfAKind" classname="com.synacy.poker.model.game.HandIdentifierTest" time="0.002"/>
+  <testcase name="identifyHand_twoPair" classname="com.synacy.poker.model.game.HandIdentifierTest" time="0.004"/>
+  <testcase name="identifyHand_flush" classname="com.synacy.poker.model.game.HandIdentifierTest" time="0.001"/>
+  <testcase name="identifyHand_straightFlush" classname="com.synacy.poker.model.game.HandIdentifierTest" time="0.003"/>
+  <testcase name="identifyHand_fourOfAKind" classname="com.synacy.poker.model.game.HandIdentifierTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
